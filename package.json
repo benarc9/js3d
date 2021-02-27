@@ -1,0 +1,23 @@
+{
+  "name": "js3d",
+  "version": "1.0.0",
+  "description": "A wrapper over three.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/speeddown/js3d.git"
+  },
+  "keywords": [
+    "threejs",
+    "3d"
+  ],
+  "author": "Ben Arc <benarceneaux0@gmail.com> (https://github.com/speeddown)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/speeddown/js3d/issues"
+  },
+  "homepage": "https://github.com/speeddown/js3d#readme"
+}
